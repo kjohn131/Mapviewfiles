@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="CONTROL_SECT_JOB_000101060.schema">
+      <SimpleField name="OBJECTID" type="int"/>
+      <SimpleField name="CONTROL_SECT_JOB" type="string"/>
+      <SimpleField name="DISTRICT_NUMBER" type="int"/>
+      <SimpleField name="COUNTY_NUMBER" type="int"/>
+      <SimpleField name="HIGHWAY_NUMBER" type="string"/>
+      <SimpleField name="PROJ_CLASS" type="string"/>
+      <SimpleField name="TYPE_OF_WORK" type="string"/>
+      <SimpleField name="LIMITS_FROM" type="string"/>
+      <SimpleField name="LIMITS_TO" type="string"/>
+      <SimpleField name="LAYMAN_DESCRIPTION1" type="string"/>
+      <SimpleField name="LAYMAN_DESCRIPTION2" type="string"/>
+      <SimpleField name="BEG_MILE_POINT" type="float"/>
+      <SimpleField name="END_MILE_POINT" type="float"/>
+      <SimpleField name="PRIORITY_CODE" type="string"/>
+      <SimpleField name="DIST_LET_DATE" type="int"/>
+      <SimpleField name="LET_SCH_1" type="string"/>
+      <SimpleField name="LET_SCH_2" type="string"/>
+      <SimpleField name="TRUNK_SYS_FLAG" type="string"/>
+      <SimpleField name="FREIGHT" type="string"/>
+      <SimpleField name="ENERGY" type="string"/>
+      <SimpleField name="PROJ_LENGTH" type="float"/>
+      <SimpleField name="ACTUAL_LET_DATE" type="int"/>
+      <SimpleField name="CONTROL_SECTION" type="string"/>
+      <SimpleField name="DISTRICT_NAME" type="string"/>
+      <SimpleField name="COUNTY_NAME" type="string"/>
+      <SimpleField name="PT_TOP100" type="int"/>
+      <SimpleField name="NBR_LET_YEAR" type="int"/>
+      <SimpleField name="NBR_LET_MONTH" type="int"/>
+      <SimpleField name="NBR_TOTAL_MONTHS" type="int"/>
+      <SimpleField name="FC" type="int"/>
+      <SimpleField name="OFFCS" type="int"/>
+      <SimpleField name="PT_PHASE" type="string"/>
+      <SimpleField name="LOC_ERROR" type="string"/>
+      <SimpleField name="TPP_WORK_PROGRAM" type="string"/>
+      <SimpleField name="PRJ_TIER" type="string"/>
+      <SimpleField name="PRJ_UTP" type="string"/>
+      <SimpleField name="Shape__Length" type="float"/>
+    </Schema>
+    <Document id="CONTROL_SECT_JOB_000101060">
+      <name>CONTROL_SECT_JOB_000101060</name>
+      <Placemark id="CONTROL_SECT_JOB_000101060.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#CONTROL_SECT_JOB_000101060.schema">
+            <SimpleData name="OBJECTID">4020</SimpleData>
+            <SimpleData name="CONTROL_SECT_JOB">000101060</SimpleData>
+            <SimpleData name="DISTRICT_NUMBER">24</SimpleData>
+            <SimpleData name="COUNTY_NUMBER">72</SimpleData>
+            <SimpleData name="HIGHWAY_NUMBER">SH 20</SimpleData>
+            <SimpleData name="PROJ_CLASS">FS</SimpleData>
+            <SimpleData name="TYPE_OF_WORK">DONIPHAN DRIVE CORRIDOR STUDY</SimpleData>
+            <SimpleData name="LIMITS_FROM">TEXAS/NEW MEXICO STATE LINE</SimpleData>
+            <SimpleData name="LIMITS_TO">MESA ST (SH 20)</SimpleData>
+            <SimpleData name="LAYMAN_DESCRIPTION1">DONIPHAN DRIVE CORRIDOR STUDY</SimpleData>
+            <SimpleData name="BEG_MILE_POINT">0</SimpleData>
+            <SimpleData name="END_MILE_POINT">11.152</SimpleData>
+            <SimpleData name="PRIORITY_CODE">P</SimpleData>
+            <SimpleData name="DIST_LET_DATE">2712</SimpleData>
+            <SimpleData name="TRUNK_SYS_FLAG">N</SimpleData>
+            <SimpleData name="PROJ_LENGTH">11.152</SimpleData>
+            <SimpleData name="CONTROL_SECTION">000101</SimpleData>
+            <SimpleData name="DISTRICT_NAME">El Paso</SimpleData>
+            <SimpleData name="COUNTY_NAME">El Paso</SimpleData>
+            <SimpleData name="PT_TOP100">0</SimpleData>
+            <SimpleData name="NBR_LET_YEAR">2027</SimpleData>
+            <SimpleData name="NBR_LET_MONTH">12</SimpleData>
+            <SimpleData name="NBR_TOTAL_MONTHS">24336</SimpleData>
+            <SimpleData name="FC">14</SimpleData>
+            <SimpleData name="OFFCS">1</SimpleData>
+            <SimpleData name="PT_PHASE">Corridor Studies, construction in 10+ years</SimpleData>
+            <SimpleData name="LOC_ERROR">NO ERROR</SimpleData>
+            <SimpleData name="TPP_WORK_PROGRAM">PLAN</SimpleData>
+            <SimpleData name="PRJ_TIER">NA</SimpleData>
+            <SimpleData name="Shape__Length">21267.5105952036</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <extrude>0</extrude>
+          <coordinates>
+            -106.606027270986,32.0006577670425,0
+            -106.605998020942,32.0000584468165,0
+            -106.605904830613,31.9986500360272,0
+            -106.605804451066,31.9969351364431,0
+            -106.605797621175,31.9963391356238,0
+            -106.605805530841,31.9960637663421,0
+            -106.605812261019,31.9957718762863,0
+            -106.605810310777,31.9954671762808,0
+            -106.605794040491,31.9951797754592,0
+            -106.605627050866,31.9921659959432,0
+            -106.603678698439,31.9592175610172,0
+            -106.603445707794,31.9555353992969,0
+            -106.603425297172,31.9553902199429,0
+            -106.603403518417,31.9552375595018,0
+            -106.603190067925,31.9536121692514,0
+            -106.603176577925,31.9534704487742,0
+            -106.603169757915,31.9533223194831,0
+            -106.602878906782,31.9482734186259,0
+            -106.602874407121,31.9473085681288,0
+            -106.602918357196,31.9463912275397,0
+            -106.602902546847,31.9457153180019,0
+            -106.601725405279,31.9262077951181,0
+            -106.601604845079,31.9252573456242,0
+            -106.601455575622,31.9244609141073,0
+            -106.600795314786,31.9211726044337,0
+            -106.600716454383,31.9208190439345,0
+            -106.600601614655,31.9203163243798,0
+            -106.600593124677,31.9198948442895,0
+            -106.600569784649,31.9195615136315,0
+            -106.600563874633,31.9189946445464,0
+            -106.600555624506,31.9152130835457,0
+            -106.600546074516,31.9133719428802,0
+            -106.600539544662,31.9129946230254,0
+            -106.600538354394,31.9126933923769,0
+            -106.600513564486,31.9124103633698,0
+            -106.60046656463,31.9120944930145,0
+            -106.600212934293,31.91016441285,0
+            -106.599962483992,31.9081930520789,0
+            -106.599816274196,31.9068343422185,0
+            -106.599502604058,31.9028735218115,0
+            -106.598994402847,31.8975173903911,0
+            -106.598964922835,31.8972664801904,0
+            -106.59893663309,31.897048881155,0
+            -106.598895853169,31.8968393399814,0
+            -106.598836443088,31.896612180602,0
+            -106.598779073081,31.8964146101282,0
+            -106.597924742906,31.893554890007,0
+            -106.597801532677,31.8931127996502,0
+            -106.597716742494,31.8927611601211,0
+            -106.597665372334,31.8924283604013,0
+            -106.597621042271,31.8920815096017,0
+            -106.597588532241,31.8917888192349,0
+            -106.597113792377,31.8871310189855,0
+            -106.597004522204,31.8862793083849,0
+            -106.596981632232,31.8860970388142,0
+            -106.596955552343,31.8858964389734,0
+            -106.596908742032,31.8856669490527,0
+            -106.596867182373,31.8854763587976,0
+            -106.596810282185,31.8852684884427,0
+            -106.596750722085,31.8850728089386,0
+            -106.596678502028,31.8848476586511,0
+            -106.596599892254,31.8846318685462,0
+            -106.595724361838,31.8823942586741,0
+            -106.595495151304,31.8819789978735,0
+            -106.595056581206,31.8810023187483,0
+            -106.5943224007,31.8790807679149,0
+            -106.594161650774,31.8786510878281,0
+            -106.593679500706,31.8774802377718,0
+            -106.593031060801,31.8755716169577,0
+            -106.591923300614,31.8727619865692,0
+            -106.590682179234,31.8696172263296,0
+            -106.589208008819,31.8656094259895,0
+            -106.588139568789,31.8628410658923,0
+            -106.579742355567,31.8412387624402,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
